@@ -1,0 +1,1 @@
+Git hub is websites that alows developers to store and manage their code using git.
